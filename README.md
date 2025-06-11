@@ -2,7 +2,7 @@
 
 # Mulheres da Bíblia ✨
 
-Este é um projeto pessoal desenvolvido com carinho por [Júllia Amorim](https://julliaamorim.github.io), com o objetivo de valorizar e compartilhar a história de mulheres que marcaram presença na narrativa bíblica. O site **Mulheres da Bíblia** apresenta, de forma simples e acessível, informações sobre diversas personagens femininas que foram instrumentos importantes no plano de Deus.
+Este é um projeto pessoal desenvolvido com carinho por [Jullia Amorim](https://julliaamorim.github.io), com o objetivo de valorizar e compartilhar a história de mulheres que marcaram presença na narrativa bíblica. O site **Mulheres da Bíblia** apresenta, de forma simples e acessível, informações sobre diversas personagens femininas que foram instrumentos importantes no plano de Deus.
 
 ## 🌿 Sobre o projeto
 
